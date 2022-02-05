@@ -16,3 +16,9 @@
 I will update this project, soon.
 
 - My inspiration: http://edinareact.ibthemespro.com/home-light
+
+#### ✅ To do list
+- [x] Start the site
+- [ ] Make a menu
+- [ ] Make content
+- [ ] Code effects
