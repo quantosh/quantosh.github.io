@@ -1,8 +1,4 @@
-<p align="center">
-<h3>GitHub Pages</h3>
-</p>
-
-## 🤵 About me
+## About this project
 - 📌 This is the repository for my GitHub.io website
 
 ## Things I'm practicing in this project
@@ -15,3 +11,6 @@
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0079BF&logo=Trello&logoColor=FFFFFF&label=)
 
 
+<p align="center">
+<h3>GitHub Pages</h3>
+</p>
