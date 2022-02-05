@@ -11,6 +11,6 @@
 ![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0079BF&logo=Trello&logoColor=FFFFFF&label=)
 
 
-<p align="center">
-<h3>GitHub Pages</h3>
-</p>
+I will update this project, soon.
+
+My inspiration: http://edinareact.ibthemespro.com/home-light
