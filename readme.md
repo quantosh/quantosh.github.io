@@ -1,7 +1,7 @@
-## Git Hub Pages Site
+## DIW Portfolio
 
 #### 📌 About this project
--  This is the repository for my GitHub.io website
+-  This is a HTML5 CSS3 JS web page project
 
 #### 👩‍💻 Things I'm practicing in this project
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
@@ -15,10 +15,8 @@
 #### 📋 Notes
 I will update this project, soon.
 
-- My inspiration: http://edinareact.ibthemespro.com/home-light
-
 #### ✅ To do list
 - [x] Start the site
-- [ ] Make a menu
+- [x] Make a menu
 - [ ] Make content
 - [ ] Code effects
