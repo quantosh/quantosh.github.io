@@ -1,6 +1,4 @@
-![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/embedMiniature_1024x512_np.png) 
-
-## Bio link tool
+![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/embedMiniature_1024x512_es-en.png) 
 
 #### 📌 About
 -  This is a HTML5 CSS3 JS web page in order to stop using others bio link tools.
@@ -8,9 +6,6 @@
 | Linktree | My Alternative |
 | :--: | :--: |
 | ![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/screenshotLinktree.png) | ![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/screenshotMyVersion.png) |
-
-
-
 
 #### 👩‍💻 Technologies I'm using in this project
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
