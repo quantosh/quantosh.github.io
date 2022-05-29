@@ -3,7 +3,7 @@
 #### 📌 About
 -  This is a HTML5 CSS3 JS web page in order to stop using others bio link tools.
 
-[bioLinkToolComparison](https://github.com/quantosh/quantosh.github.io/blob/main/bioLinkTool.png)
+![bioLinkToolComparison](https://github.com/quantosh/quantosh.github.io/blob/main/bioLinkTool.png)
 
 #### 👩‍💻 Things I'm practicing in this project
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
