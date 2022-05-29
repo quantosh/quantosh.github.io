@@ -1,4 +1,4 @@
-![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/embedMiniature_1024x512.png) 
+![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/embedMiniature_1024x512_np.png) 
 
 ## Bio link tool
 
