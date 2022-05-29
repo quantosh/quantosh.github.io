@@ -18,7 +18,7 @@
 I will update this project, soon.
 
 #### Credits
-![Hover Effects By]([https://micku7zu.github.io/vanilla-tilt.js/])
+Thanks to [Vanilla-tilt](https://micku7zu.github.io/vanilla-tilt.js/) for the smooth effect.
 
 #### ✅ To do list
 - [x] Start the site
