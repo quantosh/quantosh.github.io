@@ -3,10 +3,11 @@
 #### 📌 About
 -  This is a HTML5 CSS3 JS web page in order to stop using others bio link tools.
 
-| APP | APP | APP |
-| -- | :--:| :--: |
-| Weather   | ✔️| ![bioLinkToolComparison](https://github.com/quantosh/quantosh.github.io/blob/main/bioLinkTool.png) | 
-| Clock     | ✔️ | ✔️ |
+| App Comparison |
+| Linktree | My Alternative |
+| :--:| :--: |
+| ![bioLinkToolLinktree}(https://github.com/quantosh/quantosh.github.io/blob/main/screenshotLinktree.png) | ![bioLinkToolMyAlternative}(https://github.com/quantosh/quantosh.github.io/blob/main/screenshotMyVersion.png) |
+
 
 
 
