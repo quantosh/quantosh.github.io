@@ -15,6 +15,9 @@
 #### 📋 Notes
 I will update this project, soon.
 
+#### Credits
+![Effects by](https://micku7zu.github.io/vanilla-tilt.js/)
+
 #### ✅ To do list
 - [x] Start the site
 - [x] Make a menu
