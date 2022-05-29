@@ -1,7 +1,9 @@
 ## DIW Portfolio
 
-#### 📌 About this project
--  This is a HTML5 CSS3 JS web page project
+#### 📌 About
+-  This is a HTML5 CSS3 JS web page in order to stop using others bio link tools.
+
+![bioLinkToolComparison]([https://user-images.githubusercontent.com/80041279/170883184-e8064783-ad86-4756-999f-6d0eabef262c.png](https://github.com/quantosh/quantosh.github.io/blob/main/bioLinkTool.jpg))
 
 #### 👩‍💻 Things I'm practicing in this project
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
