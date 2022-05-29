@@ -3,8 +3,6 @@
 #### 📌 About
 -  This is a HTML5 CSS3 JS web page in order to stop using others bio link tools.
 
-| App Comparison |
-| :--: |
 | Linktree | My Alternative |
 | :--: | :--: |
 | ![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/screenshotLinktree.png) | ![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/screenshotMyVersion.png) |
