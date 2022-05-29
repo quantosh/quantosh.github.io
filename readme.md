@@ -5,7 +5,7 @@
 
 ![bioLinkToolComparison](https://github.com/quantosh/quantosh.github.io/blob/main/bioLinkTool.png)
 
-#### 👩‍💻 Things I'm practicing in this project
+#### 👩‍💻 Technologies I'm using in this project
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
@@ -18,10 +18,10 @@
 I will update this project, soon.
 
 #### Credits
-[Hover Effects By]([https://link-url-here.org](https://micku7zu.github.io/vanilla-tilt.js/))
+![Hover Effects By]([https://micku7zu.github.io/vanilla-tilt.js/])
 
 #### ✅ To do list
 - [x] Start the site
-- [x] Make a menu
+- [x] Link Socials & Hobbies
 - [ ] Make content
 - [ ] Code effects
