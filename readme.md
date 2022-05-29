@@ -6,7 +6,7 @@
 | App Comparison |
 | Linktree | My Alternative |
 | :--:| :--: |
-| ![bioLinkToolLinktree}(https://github.com/quantosh/quantosh.github.io/blob/main/screenshotLinktree.png) | ![bioLinkToolMyAlternative}(https://github.com/quantosh/quantosh.github.io/blob/main/screenshotMyVersion.png) |
+| ![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/screenshotLinktree.png) | ![alt text](https://github.com/quantosh/quantosh.github.io/blob/main/screenshotMyVersion.png) |
 
 
 
