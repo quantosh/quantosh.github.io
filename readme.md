@@ -2,6 +2,7 @@
 
 #### 📌 About
 -  This is a HTML5 CSS3 JS web page in order to stop using others bio link tools.
+- [Live Preview](https://bio-quantosh.netlify.app/).
 
 | Linktree | My Alternative |
 | :--: | :--: |
